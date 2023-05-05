@@ -1,0 +1,52 @@
+[
+    {
+        "No":"1", 
+        "Nama":"Doe",
+        "Tanggal_Lahir":"20 desember 2004",
+        "umur":"18",
+        "Alamat":"Bandung",
+        "Kelas":"Laravel",
+        "Nilai":"90",
+        "Hasil":"A"
+    },
+       {
+        "No":"2", 
+        "Nama":"Doe",
+        "Tanggal_Lahir":"20 desember 2004",
+        "umur":"18",
+        "Alamat":"Bandung",
+        "Kelas":"Laravel",
+        "Nilai":"90",
+        "Hasil":"A"
+    },  
+    {
+        "No":"3", 
+        "Nama":"Doe",
+        "Tanggal_Lahir":"20 desember 2004",
+        "umur":"18",
+        "Alamat":"Bandung",
+        "Kelas":"Laravel",
+        "Nilai":"90",
+        "Hasil":"A"
+    },
+      {
+        "No":"4", 
+        "Nama":"Doe",
+        "Tanggal_Lahir":"20 desember 2004",
+        "umur":"18",
+        "Alamat":"Bandung",
+        "Kelas":"Laravel",
+        "Nilai":"90",
+        "Hasil":"A"
+    },
+      {
+        "No":"5", 
+        "Nama":"Doe",
+        "Tanggal_Lahir":"20 desember 2004",
+        "umur":"18",
+        "Alamat":"Bandung",
+        "Kelas":"Laravel",
+        "Nilai":"90",
+        "Hasil":"A"
+    }
+]
